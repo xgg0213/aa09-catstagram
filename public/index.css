@@ -15,3 +15,10 @@ body {
     height: auto;
     border-radius: 10px;
   }
+
+  #up-button, #down-button {
+    height: 50px;
+    width: 100px;
+    margin: 50px;
+  }
+
